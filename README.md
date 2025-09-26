@@ -86,7 +86,7 @@ At Media.net, I focused on engineering responsive email templates using React.js
 - **Tech Stack:** Apache Kafka, Apache Storm, FastAPI, Kubernetes, Shell scripting
 - **Impact:** Enables real-time data processing capabilities for business applications
 
-### 🛡️ Intrusion Detection System
+### 🛡️ [Intrusion Detection System](https://github.com/shahyash29/intrusion-detection-system)
 **Real-time Network Security Monitoring**
 - Machine learning-based system for detecting network intrusions and security threats
 - **Tech Stack:** Python, Scikit-learn, TensorFlow, Network Analysis Libraries
