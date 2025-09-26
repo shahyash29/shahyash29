@@ -19,7 +19,7 @@ I am a passionate Software Developer with over 5 years of professional experienc
 ### 💼 Software Developer | HealthCare Startup
 **December 2024 - Present**
 
-In my current role at a healthcare startup, I have been instrumental in building secure backend infrastructure using NestJS and IPFS with Merkle-proof hashing to ensure tamper-proof healthcare data transfers. I've conducted comprehensive performance testing by simulating high-load scenarios with 1K–2K files using JMeter and CloudWatch to validate system reliability under production conditions. Additionally, I've implemented automated regression testing using Python and Selenium, scheduling these tests to run every 48 hours to maintain system stability and catch potential issues early in the development cycle.
+In my current role at a healthcare startup, I have been instrumental in building secure backend infrastructure using NestJS and IPFS with Merkle-proof hashing to ensure tamper-proof healthcare data transfers. I've conducted comprehensive performance testing by simulating high-load scenarios with 1K–2K files using JMeter and CloudWatch to validate system reliability under production conditions. Additionally, I've implemented automated regression testing using Python and Selenium, scheduling these tests to run every 48 hours to maintain system stability and catch potential issues early in the development cycle. I also developed comprehensive unit test cases for both frontend and backend components, ensuring robust code coverage and maintaining high-quality standards across the entire application stack.
 
 ### 🎓 Graduate Research Assistant | California State University Los Angeles
 **October 2024 - May 2025**
