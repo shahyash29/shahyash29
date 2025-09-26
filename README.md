@@ -1,6 +1,7 @@
 # Yash Shah (@shahyash29)
 
 **Software Developer**
+
 **Currently seeking opportunities to transition into AI/ML Engineering and Cloud Computing roles.**
 
 📧 shahyash29031997@gmail.com | 📱 +1 (323) 518-3548 | 🔗 [LinkedIn](https://linkedin.com/in/yash-shah-29)
