@@ -2,7 +2,8 @@
 
 **Software Developer | AI/ML Engineer | Cloud Computing Specialist**
 
-📧 shahyash29031997@gmail.com | 📱 +1 (323) 518-3548  🔗 [LinkedIn](https://linkedin.com/in/yash-shah-29) 
+📧 shahyash29031997@gmail.com | 📱 +1 (323) 518-3548 | 🔗 [LinkedIn](https://linkedin.com/in/yash-shah-29)
+
 ---
 
 ## Professional Summary
@@ -41,6 +42,15 @@ At Media.net, I focused on engineering responsive email templates using React.js
 ### **Bachelor of Engineering in Computer Engineering**
 **University of Mumbai** | *July 2015 - May 2019*  
 **GPA: 3.82/4.0**
+
+---
+
+## Certifications
+
+### **Professional Certifications**
+- **[Coursera Certification](https://www.coursera.org/account/accomplishments/verify/X3XGYXJ5KG5M)** - AI/ML Specialization
+- **[Hewlett Packard Enterprise Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_bjo5pLCY4DRwhL4my_1708320536879_completion_certificate.pdf)** - Cloud Computing & Enterprise Solutions
+- **[Udemy Certificate](https://www.udemy.com/certificate/UC-ec573fb7-7278-4ddb-934f-00d92d584f3e/)** - Advanced Programming & Development
 
 ---
 
@@ -117,10 +127,6 @@ MySQL, PostgreSQL, MongoDB, Cosmos DB, Redis, Node.js, GraphQL, OAuth, JWT
 - Cloud Computing & Distributed Systems
 - Healthcare Technology & HIPAA-compliant solutions
 - Full-Stack Development transitioning to AI/ML
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-29)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahyash29)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahyash29031997@gmail.com)
 
 ---
 
