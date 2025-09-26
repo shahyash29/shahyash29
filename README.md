@@ -86,11 +86,11 @@ At Media.net, I focused on engineering responsive email templates using React.js
 - **Tech Stack:** Apache Kafka, Apache Storm, FastAPI, Kubernetes, Shell scripting
 - **Impact:** Enables real-time data processing capabilities for business applications
 
-### 🏥 [De-identification DICOM Files](https://github.com/shahyash29/De-identification-Dicom-Files)
-**Medical Data Privacy Solution**
-- Tool for removing protected health information (PHI) from DICOM medical images
-- **Tech Stack:** Python, DICOM processing libraries, healthcare compliance protocols
-- **Impact:** Ensures HIPAA compliance for medical imaging data used in research
+### 🛡️ Intrusion Detection System
+**Real-time Network Security Monitoring**
+- Machine learning-based system for detecting network intrusions and security threats
+- **Tech Stack:** Python, Scikit-learn, TensorFlow, Network Analysis Libraries
+- **Impact:** Provides automated threat detection capabilities for network security monitoring
 
 ---
 
