@@ -59,25 +59,25 @@ At Media.net, I focused on engineering responsive email templates using React.js
 ### 💬 [MediChat Login](https://github.com/shahyash29/MediChat_Login)
 **Secure Healthcare Authentication Platform**
 - HIPAA-compliant authentication system with multi-factor authentication and role-based access control
-- **Tech Stack:** JavaScript (37,438 lines), HTML5, CSS3, Docker containerization
+- **Tech Stack:** React, Node.js, JavaScript, HTML5, CSS3, Docker
 - **Impact:** Secure access for healthcare professionals with regulatory compliance
 
 ### 🔍 [Github PR Review](https://github.com/shahyash29/Github_PR_Review)
 **AI-Powered Code Review Automation**
 - Intelligent tool using Claude AI and Gemini API reducing manual review time by 70%
-- **Tech Stack:** Python (35,930 lines), Docker, AI integration, automated testing
+- **Tech Stack:** Python, Docker, Claude AI, Gemini API, automated testing frameworks
 - **Impact:** Standardized quality assessments across development teams with proactive vulnerability detection
 
 ### 🌐 [Medimint Selenium](https://github.com/shahyash29/Medimint-Selenium)
 **Healthcare Web Automation**
 - Automation framework for healthcare platform testing and workflow validation
-- **Tech Stack:** Python, Selenium, automated testing frameworks
+- **Tech Stack:** Python, Selenium WebDriver, automated testing frameworks
 - **Impact:** Streamlined healthcare workflow testing and data validation processes
 
 ### 📧 [AI-Powered Cold Email Generator](https://github.com/shahyash29/Cold-Email-Generator)
 **Resume-to-Job Matching & Personalized Outreach**
 - Intelligent system reducing email drafting time by 75% using LangChain, Groq LLM, and GPT-4
-- **Tech Stack:** Python (9,049 lines), AI/ML, ChromaDB vector database, automated PDF parsing
+- **Tech Stack:** Python, LangChain, Groq LLM, GPT-4, ChromaDB, PDF parsing libraries
 - **Impact:** 300% improvement in email response rates with enhanced personalization
 
 ### 📊 [RealTime DataStream](https://github.com/shahyash29/RealTime-DataStream)
@@ -89,7 +89,7 @@ At Media.net, I focused on engineering responsive email templates using React.js
 ### 🛡️ [Intrusion Detection System](https://github.com/shahyash29/Intrusion-Detection-System)
 **Real-time Network Security Monitoring**
 - Sophisticated network intrusion detection system with machine learning capabilities
-- **Tech Stack:** Python, Scikit-learn, TensorFlow, Apache Kafka, Prometheus
+- **Tech Stack:** Python, Scikit-learn, TensorFlow, Apache Kafka, Prometheus, Grafana
 - **Impact:** 99.9% threat detection accuracy with sub-second response times
 
 ---
