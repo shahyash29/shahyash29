@@ -2,9 +2,7 @@
 
 **Software Developer | AI/ML Engineer | Cloud Computing Specialist**
 
-📧 shahyash29031997@gmail.com | 📱 +1 (323) 518-3548  
-🔗 [LinkedIn](https://linkedin.com/in/yash-shah-29) | 💻 [GitHub](https://github.com/shahyash29)
-
+📧 shahyash29031997@gmail.com | 📱 +1 (323) 518-3548  🔗 [LinkedIn](https://linkedin.com/in/yash-shah-29) 
 ---
 
 ## Professional Summary
@@ -19,22 +17,18 @@ I am a passionate Software Developer with over 5 years of professional experienc
 
 ### 💼 Software Developer | HealthCare Startup
 **December 2024 - Present**
-- Built secure backend infrastructure using NestJS and IPFS with Merkle-proof hashing for tamper-proof healthcare data transfers
-- Simulated high-load scenarios (1K–2K files) using JMeter and CloudWatch for production validation
-- Implemented automated regression testing with Python/Selenium, running every 48 hours
+
+In my current role at a healthcare startup, I have been instrumental in building secure backend infrastructure using NestJS and IPFS with Merkle-proof hashing to ensure tamper-proof healthcare data transfers. I've conducted comprehensive performance testing by simulating high-load scenarios with 1K–2K files using JMeter and CloudWatch to validate system reliability under production conditions. Additionally, I've implemented automated regression testing using Python and Selenium, scheduling these tests to run every 48 hours to maintain system stability and catch potential issues early in the development cycle.
 
 ### 🎓 Graduate Research Assistant | California State University Los Angeles
 **October 2024 - May 2025**
-- Developed Java-based Azure Function to ingest 50K+ HERE traffic records into Cosmos DB (80% manual work reduction)
-- Fine-tuned deep learning models using TensorFlow/Keras for traffic prediction accuracy improvement
-- Prototyped real-time transformer-based pipelines for multimodal data processing
+
+During my graduate research assistantship, I developed a Java-based Azure Function to efficiently ingest over 50K HERE traffic records into Cosmos DB, achieving an 80% reduction in manual work processes. I worked extensively with deep learning models, fine-tuning them using TensorFlow and Keras to improve traffic prediction accuracy for smart city applications. My research also involved prototyping real-time transformer-based pipelines for multimodal data processing, exploring scalable solutions for processing complex urban data streams from various sources.
 
 ### 🖥️ UI Developer (Software Engineer) | Media.net
 **August 2019 - August 2023**
-- Engineered responsive email templates in React.js achieving 85% cross-client rendering accuracy
-- Developed internal Email Builder Tool automating 60% of template creation via drag-and-drop functionality
-- Enhanced deployment reliability with CI/CD pipelines (Jenkins, GitHub Actions)
-- Mentored 2 developers and conducted code reviews for on-time project delivery
+
+At Media.net, I focused on engineering responsive email templates using React.js, achieving an impressive 85% cross-client rendering accuracy across various email platforms and devices. I spearheaded the development of an internal Email Builder Tool that revolutionized our template creation process by introducing drag-and-drop functionality, which automated 60% of template creation tasks and significantly reduced development time. I also enhanced our deployment reliability by implementing robust CI/CD pipelines using Jenkins and GitHub Actions, ensuring smoother and more reliable software releases. Throughout my tenure, I mentored 2 junior developers, conducted thorough code reviews, and collaborated closely with cross-functional teams to ensure on-time project delivery while maintaining high code quality standards.
 
 ---
 
