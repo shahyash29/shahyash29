@@ -48,9 +48,9 @@ At Media.net, I focused on engineering responsive email templates using React.js
 ## Certifications
 
 ### **Professional Certifications**
-- **[Coursera Certification](https://www.coursera.org/account/accomplishments/verify/X3XGYXJ5KG5M)** - AI/ML Specialization
-- **[Hewlett Packard Enterprise Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_bjo5pLCY4DRwhL4my_1708320536879_completion_certificate.pdf)** - Cloud Computing & Enterprise Solutions
-- **[Udemy Certificate](https://www.udemy.com/certificate/UC-ec573fb7-7278-4ddb-934f-00d92d584f3e/)** - Advanced Programming & Development
+- **[Rust Fundamentals](https://www.coursera.org/account/accomplishments/verify/X3XGYXJ5KG5M)** - Coursera
+- **[Software Engineering Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_bjo5pLCY4DRwhL4my_1708320536879_completion_certificate.pdf)** - Hewlett Packard Enterprise
+- **[Python Pro Code](https://www.udemy.com/certificate/UC-ec573fb7-7278-4ddb-934f-00d92d584f3e/)** - Udemy
 
 ---
 
