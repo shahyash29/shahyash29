@@ -1,6 +1,6 @@
 # Yash Shah (@shahyash29)
 
-**Software Developer | Healthcare Tech Specialist | AI/ML Engineer**
+**Software Developer | AI/ML Engineer | Cloud Computing Specialist**
 
 📧 shahyash29031997@gmail.com | 📱 +1 (323) 518-3548  
 🔗 [LinkedIn](https://linkedin.com/in/yash-shah-29) | 💻 [GitHub](https://github.com/shahyash29)
@@ -9,7 +9,9 @@
 
 ## Professional Summary
 
-I am a passionate Software Developer with over 5 years of professional experience, specializing in healthcare technology solutions, AI-powered automation, and full-stack development. Recently completed my Master's in Computer Science from California State University Los Angeles with a 3.93 GPA. My expertise spans across building secure, HIPAA-compliant systems for healthcare environments, developing intelligent automation tools that significantly reduce manual workloads, and creating scalable web applications with modern frameworks. I have a proven track record of leading technical initiatives, mentoring development teams, and delivering high-impact solutions that improve operational efficiency and user experience. My passion lies in leveraging cutting-edge technologies like AI/ML, cloud computing, and modern development practices to solve complex real-world problems, particularly in healthcare and security domains.
+I am a passionate Software Developer with over 5 years of professional experience in full-stack development, specializing in building scalable web applications and healthcare technology solutions. Recently completed my Master's in Computer Science from California State University Los Angeles with a 3.93 GPA. While my core expertise lies in software engineering with technologies like React.js, Node.js, Python, and Java, I am enthusiastic about expanding into AI/ML engineering and cloud computing architecture. I have hands-on experience with machine learning frameworks through academic projects and personal initiatives, and I'm eager to apply these skills in a professional setting. My passion for continuous learning drives me to explore cutting-edge technologies in artificial intelligence, deep learning, and cloud-native architectures to solve complex real-world problems.
+
+**Currently seeking opportunities to transition into AI/ML Engineering and Cloud Computing roles.**
 
 ---
 
@@ -62,31 +64,25 @@ I am a passionate Software Developer with over 5 years of professional experienc
 - **Tech Stack:** Python (35,930 lines), Docker, AI integration, automated testing
 - **Impact:** Standardized quality assessments across development teams with proactive vulnerability detection
 
-### 🏥 [De-identification Dicom Files](https://github.com/shahyash29/De-identification-Dicom-Files)
-**Medical Data Privacy Solution**
-- HIPAA-compliant tool for removing PHI from DICOM medical images
-- **Tech Stack:** TypeScript, healthcare compliance protocols
-- **Impact:** Ensures privacy compliance for healthcare institutions and research organizations
-
 ### 🌐 [Medimint Selenium](https://github.com/shahyash29/Medimint-Selenium)
 **Healthcare Web Automation**
 - Automation framework for healthcare platform testing and workflow validation
 - **Tech Stack:** Python, Selenium, automated testing frameworks
 - **Impact:** Streamlined healthcare workflow testing and data validation processes
 
-### 📧 AI-Powered Cold Email Generator
+### 📧 [AI-Powered Cold Email Generator](https://github.com/shahyash29/Cold-Email-Generator)
 **Resume-to-Job Matching & Personalized Outreach**
 - Intelligent system reducing email drafting time by 75% using LangChain, Groq LLM, and GPT-4
-- **Tech Stack:** Python, AI/ML, ChromaDB vector database, automated PDF parsing
+- **Tech Stack:** Python (9,049 lines), AI/ML, ChromaDB vector database, automated PDF parsing
 - **Impact:** 300% improvement in email response rates with enhanced personalization
 
-### 📊 RealTime DataStream
+### 📊 [RealTime DataStream](https://github.com/shahyash29/RealTime-DataStream)
 **High-Performance Data Processing Pipeline**
 - Scalable real-time data streaming platform processing 1M+ events per second
-- **Tech Stack:** Apache Kafka, Apache Storm, FastAPI, Kubernetes
+- **Tech Stack:** Apache Kafka, Apache Storm, FastAPI, Kubernetes, Shell scripting
 - **Impact:** Enables real-time decision making for businesses processing millions of data points daily
 
-### 🛡️ Intrusion Detection System
+### 🛡️ [Intrusion Detection System](https://github.com/shahyash29/Intrusion-Detection-System)
 **Real-time Network Security Monitoring**
 - Sophisticated network intrusion detection system with machine learning capabilities
 - **Tech Stack:** Python, Scikit-learn, TensorFlow, Apache Kafka, Prometheus
@@ -104,39 +100,29 @@ I am a passionate Software Developer with over 5 years of professional experienc
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### **Frameworks & Libraries**
-ReactJS, NestJS, Flask, Spring Boot, Pandas, NumPy, Matplotlib, Redux, JMeter, Selenium, Jest, TensorFlow, Keras, Scikit-learn
+### **AI/ML & Data Science**
+TensorFlow, Keras, Scikit-learn, PyTorch, LangChain, ChatGroq LLM, Pandas, NumPy, Matplotlib, ChromaDB, Deep Learning, Natural Language Processing
 
-### **Developer Tools & DevOps**
-Git, Maven, Jenkins, Docker, Swagger, CI/CD pipelines, Jupyter Notebook, Streamlit
+### **Cloud & DevOps**
+AWS (S3, Lambda, CloudWatch), Azure Functions, GCP (GCS), Docker, Kubernetes, Jenkins, CI/CD pipelines, IPFS
+
+### **Frameworks & Libraries**
+ReactJS, NestJS, Flask, Spring Boot, FastAPI, Redux, JMeter, Selenium, Jest
 
 ### **Databases & Backend**
-MySQL, PostgreSQL, MongoDB, Node.js, GraphQL, OAuth, JWT
-
-### **Cloud & Technologies**
-AWS (S3, Lambda, CloudWatch), Azure, GCP (GCS), IPFS, LangChain, ChatGroq LLM
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahyash29&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahyash29&layout=compact&theme=radical)
-
-</div>
+MySQL, PostgreSQL, MongoDB, Cosmos DB, Redis, Node.js, GraphQL, OAuth, JWT
 
 ---
 
 ## Contact & Opportunities
 
-**Open for:** Full-time Software Developer positions
+**🎯 Currently Seeking:** AI/ML Engineer and Cloud Computing positions
+
+**Specializing in:**
+- Software Engineering with AI/ML Integration
+- Cloud Computing & Distributed Systems
 - Healthcare Technology & HIPAA-compliant solutions
-- AI/ML Engineering & Automation
-- Full-Stack Development (React.js, Node.js, Python, Java)
-- DevOps & Cloud Engineering
+- Full-Stack Development transitioning to AI/ML
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-shah-29)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahyash29)
@@ -146,8 +132,8 @@ AWS (S3, Lambda, CloudWatch), Azure, GCP (GCS), IPFS, LangChain, ChatGroq LLM
 
 <div align="center">
 
-**"Building intelligent solutions that transform healthcare, security, and business processes through innovative technology."**
+**"Passionate software engineer eager to transition into AI/ML and cloud computing to build next-generation intelligent solutions."**
 
-⭐️ *Ready for new opportunities and collaborations*
+⭐️ *Open to AI/ML and Cloud Computing opportunities*
 
 </div>
