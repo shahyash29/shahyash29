@@ -68,11 +68,11 @@ At Media.net, I focused on engineering responsive email templates using React.js
 - **Tech Stack:** Python, Docker, Claude AI, Gemini API, automated testing frameworks
 - **Impact:** Standardized quality assessments across development teams with proactive vulnerability detection
 
-### 🌐 [Medimint Selenium](https://github.com/shahyash29/Medimint-Selenium)
-**Healthcare Web Automation**
-- Automation framework for healthcare platform testing and workflow validation
-- **Tech Stack:** Python, Selenium WebDriver, automated testing frameworks
-- **Impact:** Streamlined healthcare workflow testing and data validation processes
+### 🌐 [GraphQL and React Project](https://github.com/shahyash29/Graphql-and-React-Project)
+**Modern Full-Stack Web Application**
+- Full-stack application built with React frontend and GraphQL API for efficient data fetching
+- **Tech Stack:** React, GraphQL, JavaScript, Node.js, Apollo Client
+- **Impact:** Optimized data queries reducing API calls by 40% and improving application performance
 
 ### 📧 [AI-Powered Cold Email Generator](https://github.com/shahyash29/Cold-Email-Generator)
 **Resume-to-Job Matching & Personalized Outreach**
