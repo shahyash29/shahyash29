@@ -8,7 +8,7 @@
 
 ## Professional Summary
 
-I am a passionate Software Developer with over 5 years of professional experience in full-stack development, specializing in building scalable web applications and healthcare technology solutions. Recently completed my Master's in Computer Science from California State University Los Angeles with a 3.93 GPA. While my core expertise lies in software engineering with technologies like React.js, Node.js, Python, and Java, I am enthusiastic about expanding into AI/ML engineering and cloud computing architecture. I have hands-on experience with machine learning frameworks through academic projects and personal initiatives, and I'm eager to apply these skills in a professional setting. My passion for continuous learning drives me to explore cutting-edge technologies in artificial intelligence, deep learning, and cloud-native architectures to solve complex real-world problems.
+I am a passionate Software Developer with over 5 years of professional experience in full-stack development, specializing in building scalable web applications and healthcare technology solutions. I recently completed my Master's in Computer Science from California State University Los Angeles with a 3.93 GPA. While my core expertise lies in software engineering with technologies like React.js, Node.js, Python, Java, CI/CD, and Docker, I am enthusiastic about expanding into AI/ML engineering and cloud computing architecture. I have hands-on experience with machine learning frameworks through academic projects and personal initiatives, and I'm eager to apply these skills in a professional setting. My passion for continuous learning drives me to explore cutting-edge technologies in artificial intelligence, deep learning, and cloud-native architectures to solve complex real-world problems.
 
 **Currently seeking opportunities to transition into AI/ML Engineering and Cloud Computing roles.**
 
@@ -37,7 +37,7 @@ At Media.net, I focused on engineering responsive email templates using React.js
 
 ### **Master of Science in Computer Science**
 **California State University Los Angeles** | *August 2023 - May 2025*  
-**GPA: 3.93/4.0** | **Completed**
+**GPA: 3.93/4.0**
 
 ### **Bachelor of Engineering in Computer Engineering**
 **University of Mumbai** | *July 2015 - May 2019*  
