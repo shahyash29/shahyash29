@@ -1,6 +1,7 @@
 # Yash Shah (@shahyash29)
 
-**Software Developer | AI/ML Engineer | Cloud Computing Specialist**
+**Software Developer**
+**Currently seeking opportunities to transition into AI/ML Engineering and Cloud Computing roles.**
 
 📧 shahyash29031997@gmail.com | 📱 +1 (323) 518-3548 | 🔗 [LinkedIn](https://linkedin.com/in/yash-shah-29)
 
@@ -9,8 +10,6 @@
 ## Professional Summary
 
 I am a passionate Software Developer with over 5 years of professional experience in full-stack development, specializing in building scalable web applications and healthcare technology solutions. I recently completed my Master's in Computer Science from California State University Los Angeles with a 3.93 GPA. While my core expertise lies in software engineering with technologies like React.js, Node.js, Python, Java, CI/CD, and Docker, I am enthusiastic about expanding into AI/ML engineering and cloud computing architecture. I have hands-on experience with machine learning frameworks through academic projects and personal initiatives, and I'm eager to apply these skills in a professional setting. My passion for continuous learning drives me to explore cutting-edge technologies in artificial intelligence, deep learning, and cloud-native architectures to solve complex real-world problems.
-
-**Currently seeking opportunities to transition into AI/ML Engineering and Cloud Computing roles.**
 
 ---
 
