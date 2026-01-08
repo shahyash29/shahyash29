@@ -16,7 +16,7 @@ I am a passionate Software Developer with over 4 years of professional experienc
 
 ## Professional Experience
 
-### 💼 Software Developer | HealthCare Startup
+### 💼 Software Development Engineer | Stealth Startup
 **December 2024 - Present**
 
 In my current role at a healthcare startup, I engineered a proof-of-concept backend using NestJS and IPFS, applying Merkle-proof hashing to enable tamper-proof healthcare data transfers. To ensure reliability, I simulated high-load scenarios with 1K–2K concurrent file uploads using JMeter and AWS CloudWatch, validating performance under production-scale conditions. I also implemented automated regression testing in Python (Selenium), scheduled every 48 hours to expand test coverage and detect issues early in the development cycle. In addition, I developed comprehensive unit tests for both frontend and backend components, improving code coverage and maintaining high-quality standards across the application stack.
@@ -26,7 +26,7 @@ In my current role at a healthcare startup, I engineered a proof-of-concept back
 
 During my graduate research assistantship, I developed a Java-based Azure Function to efficiently ingest over 50K HERE traffic records into Cosmos DB, achieving an 80% reduction in manual work processes. I worked extensively with deep learning models, fine-tuning them using TensorFlow and Keras to improve traffic prediction accuracy for smart city applications. My research also involved prototyping real-time transformer-based pipelines for multimodal data processing, exploring scalable solutions for processing complex urban data streams from various sources.
 
-### 🖥️ UI Developer (Software Engineer) | Media.net
+### 🖥️ Software Engineer | Media.net
 **August 2019 - August 2023**
 
 At Media.net, I focused on engineering responsive email templates using React.js, achieving an impressive 85% cross-client rendering accuracy across various email platforms and devices. I spearheaded the development of an internal Email Builder Tool that revolutionized our template creation process by introducing drag-and-drop functionality, which automated 60% of template creation tasks and significantly reduced development time. I also enhanced our deployment reliability by implementing robust CI/CD pipelines using Jenkins and GitHub Actions, ensuring smoother and more reliable software releases. Throughout my tenure, I mentored 2 junior developers, conducted thorough code reviews, and collaborated closely with cross-functional teams to ensure on-time project delivery while maintaining high code quality standards.
