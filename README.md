@@ -10,26 +10,52 @@
 
 ## Professional Summary
 
-I am a passionate Software Developer with over 4 years of professional experience in full-stack development, specializing in building scalable web applications and healthcare technology solutions. I recently completed my Master's in Computer Science from California State University Los Angeles with a 3.93 GPA. While my core expertise lies in software engineering with technologies like React.js, Node.js, Python, Java, CI/CD, and Docker, I am enthusiastic about expanding into AI/ML engineering and cloud computing architecture. I have hands-on experience with machine learning frameworks through academic projects and personal initiatives, and I'm eager to apply these skills in a professional setting. My passion for continuous learning drives me to explore cutting-edge technologies in artificial intelligence, deep learning, and cloud-native architectures to solve complex real-world problems.
+Full-stack engineer with a genuine passion for understanding systems end to end. Over 5+ years I've gone deep into backend architecture, cloud infrastructure and now AI powered pipelines. I care about retrieval quality, prompt design, scalable APIs and interfaces people actually want to use. I want to build software where AI isn't a feature, it's the foundation. MS in Computer Science, 3.93 GPA.
 
 ---
 
 ## Professional Experience
 
 ### 💼 Software Development Engineer | Stealth Startup
-**December 2024 - Present**
+**July 2025 - June 2026**
 
-In my current role at a healthcare startup, I engineered a proof-of-concept backend using NestJS and IPFS, applying Merkle-proof hashing to enable tamper-proof healthcare data transfers. To ensure reliability, I simulated high-load scenarios with 1K–2K concurrent file uploads using JMeter and AWS CloudWatch, validating performance under production-scale conditions. I also implemented automated regression testing in Python (Selenium), scheduled every 48 hours to expand test coverage and detect issues early in the development cycle. In addition, I developed comprehensive unit tests for both frontend and backend components, improving code coverage and maintaining high-quality standards across the application stack.
+● Owned data security using AWS KMS and blockchain-based key management, enforcing patient-level access control for all
+medical records in production.
+● Designed an LLM-powered RAG pipeline using Amazon Bedrock for summarization, Q&A, and semantic search, targeting
+70% reduction in clinical record review time.
+● Optimized MySQL indexing on 5M+ records improving the filter speed by 3 times, and delivered 100+ Jest tests reducing
+production bugs by 30%.
+● Deployed Selenium test automation on AWS using ECS and ECR to validate medical image releases, supporting compliance
+for a $2M+ funded healthcare initiative.
+● Engineered a drag and drop patient portal for medical file uploads, currently serving 4k+ users in trial with secure document
+processing and real-time upload tracking.
 
-### 🎓 Graduate Research Assistant | California State University Los Angeles
+### 💼 Student Engineer Intern | Stealth Startup
+● Developed an MCP server with LLM agents to automate load testing of 10K+ concurrent uploads, validating system
+reliability under production traffic.
+● Architected a five-node blockchain approval workflow with multi-node consensus, eliminating single-point failures.
+● Improved PR cycle time by 35% by expanding test coverage and integrating AI-powered templates into the DevOps pipeline.
+
+### 🎓 Machine Learning Research Assistant | California State University Los Angeles
 **October 2024 - May 2025**
 
-During my graduate research assistantship, I developed a Java-based Azure Function to efficiently ingest over 50K HERE traffic records into Cosmos DB, achieving an 80% reduction in manual work processes. I worked extensively with deep learning models, fine-tuning them using TensorFlow and Keras to improve traffic prediction accuracy for smart city applications. My research also involved prototyping real-time transformer-based pipelines for multimodal data processing, exploring scalable solutions for processing complex urban data streams from various sources.
+● Built a Spring Boot ingestion API processing 10K+ records with 95% under 1.5 seconds, serving as the data layer for the
+MLOps pipeline.
+● Improved ingestion throughput by 60% through async uploads and partition tuning, enabling the pipeline to handle
+research-scale data volumes.
+● Automated the MLOps lifecycle including model retraining, versioning, and deployment on Azure with Docker and GitHub
+Actions.
 
 ### 🖥️ Software Engineer | Media.net
 **August 2019 - August 2023**
 
-At Media.net, I focused on engineering responsive email templates using React.js, achieving an impressive 85% cross-client rendering accuracy across various email platforms and devices. I spearheaded the development of an internal Email Builder Tool that revolutionized our template creation process by introducing drag-and-drop functionality, which automated 60% of template creation tasks and significantly reduced development time. I also enhanced our deployment reliability by implementing robust CI/CD pipelines using Jenkins and GitHub Actions, ensuring smoother and more reliable software releases. Throughout my tenure, I mentored 2 junior developers, conducted thorough code reviews, and collaborated closely with cross-functional teams to ensure on-time project delivery while maintaining high code quality standards.
+● Built a scalable drag-and-drop template creation service using React and Node.js, increasing template output from 20 to 80
+per week and reducing build time by 75%.
+● Designed a resilient MySQL-backed integration layer with caching, retries, and distributed API coordination, enabling
+real-time personalization and driving $4M in annual targeted ad revenue.
+● Implemented RBAC and OAuth/JWT authentication for internal APIs, improving security across 200+ campaigns.
+● Led code reviews and enforced CI/CD best practices using Git and Jenkins, mentoring junior developers and improving
+code quality, coverage, and release stability.
 
 ---
 
