@@ -21,6 +21,7 @@ Full-stack engineer with a genuine passion for understanding systems end to end.
 
 ● Owned data security using AWS KMS and blockchain-based key management, enforcing patient-level access control for all
 medical records in production.
+
 ● Designed an LLM-powered RAG pipeline using Amazon Bedrock for summarization, Q&A, and semantic search, targeting
 70% reduction in clinical record review time.
 ● Optimized MySQL indexing on 5M+ records improving the filter speed by 3 times, and delivered 100+ Jest tests reducing
