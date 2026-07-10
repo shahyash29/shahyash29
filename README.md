@@ -24,17 +24,22 @@ medical records in production.
 
 ● Designed an LLM-powered RAG pipeline using Amazon Bedrock for summarization, Q&A, and semantic search, targeting
 70% reduction in clinical record review time.
+
 ● Optimized MySQL indexing on 5M+ records improving the filter speed by 3 times, and delivered 100+ Jest tests reducing
 production bugs by 30%.
+
 ● Deployed Selenium test automation on AWS using ECS and ECR to validate medical image releases, supporting compliance
 for a $2M+ funded healthcare initiative.
+
 ● Engineered a drag and drop patient portal for medical file uploads, currently serving 4k+ users in trial with secure document
 processing and real-time upload tracking.
 
 ### 💼 Student Engineer Intern | Stealth Startup
 ● Developed an MCP server with LLM agents to automate load testing of 10K+ concurrent uploads, validating system
 reliability under production traffic.
+
 ● Architected a five-node blockchain approval workflow with multi-node consensus, eliminating single-point failures.
+
 ● Improved PR cycle time by 35% by expanding test coverage and integrating AI-powered templates into the DevOps pipeline.
 
 ### 🎓 Machine Learning Research Assistant | California State University Los Angeles
@@ -42,8 +47,10 @@ reliability under production traffic.
 
 ● Built a Spring Boot ingestion API processing 10K+ records with 95% under 1.5 seconds, serving as the data layer for the
 MLOps pipeline.
+
 ● Improved ingestion throughput by 60% through async uploads and partition tuning, enabling the pipeline to handle
 research-scale data volumes.
+
 ● Automated the MLOps lifecycle including model retraining, versioning, and deployment on Azure with Docker and GitHub
 Actions.
 
@@ -52,9 +59,12 @@ Actions.
 
 ● Built a scalable drag-and-drop template creation service using React and Node.js, increasing template output from 20 to 80
 per week and reducing build time by 75%.
+
 ● Designed a resilient MySQL-backed integration layer with caching, retries, and distributed API coordination, enabling
 real-time personalization and driving $4M in annual targeted ad revenue.
+
 ● Implemented RBAC and OAuth/JWT authentication for internal APIs, improving security across 200+ campaigns.
+
 ● Led code reviews and enforced CI/CD best practices using Git and Jenkins, mentoring junior developers and improving
 code quality, coverage, and release stability.
 
